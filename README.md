@@ -84,10 +84,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you found this project helpful, please give it a ⭐️!
 
-## 📞 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
 Project Link: [https://github.com/NextYt/3D-Cart-Animation.git](https://github.com/NextYt/3D-Cart-Animation.git)
 
 ## 🙏 Acknowledgments
